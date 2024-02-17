@@ -6,7 +6,8 @@ this is a webscrapper and summarizer made using beautifulsoup and sumy
 -app.py
 -templates/index.html
 
-#dependencies
+# dependencies
+
 -sumy
 -beautifulsoup4
 -requests
